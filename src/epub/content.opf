@@ -32,9 +32,11 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008107175</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Fleeing a terrible truth, a woman remarries, but her first husband comes back for answers.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Mere hours after their wedding, Gulian Verplank’s bride, Leilah, vanishes without a trace. Desperate to find her, Gulian embarks on a frantic journey across the globe—in the wrong direction. When he finally discovers her whereabouts, he’s shocked to learn she’s engaged to a Polish count. Determined to uncover the truth, Gulian rushes to Paris, only to find the marriage has already taken place.&lt;/p&gt;
+			&lt;p&gt;On the very day Leilah Ogsten marries Gulian, her world is shattered by a letter from her father. In shock, she abandons her new husband and flees to America to file for divorce. She remarries in Paris, to protect herself from the monstrous truth revealed in the letter. But then, Gulian reappears …&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Monster&lt;/i&gt; offers all the signature elements of an &lt;a href="https://standardebooks.org/ebooks/edgar-saltus"&gt;Edgar Saltus&lt;/a&gt; novel: high society, decadence, and a deeply pessimistic view of humanity, this time with a touch of eastern mysticism.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/47654</dc:source>
